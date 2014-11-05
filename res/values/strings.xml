@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidHangman</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_controller">ControllerActivity</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="gametitle"> Hangman </string>
+    <string name="press_start">PRESS START</string>
+    <string name="startbutton">start</string>
+    <string name="stopbutton">stop</string>
+    <string name="namelabel">Name</string>
+    <string name="highscorelabel">HIGHSCORES</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_splash">SplashActivity</string>
+
+</resources>
